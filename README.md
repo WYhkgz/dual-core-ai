@@ -1,9 +1,9 @@
 # Dual-Core AI · 边云协同级联推理引擎
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE   许可证)[!(许可协议:麻省理工学院)(https://img.shields.io/badge/License-MIT-yellow.svg))(许可证)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svghttps://img.shields.io/badge/python-3.10 -blue.svg)](https://www.python.org/)[![Python 3.10](https://img.shields.io/badge/python-3.10 -blue.svg)]（https://www.python.org/）
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svghttps://img.shields.io/badge/PyTorch-2.0 -red.svg)](https://pytorch.org/)
-[![PRs Welcome   PRs欢迎](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)[!(PRs欢迎)(https://img.shields.io/badge/PRs-welcome-brightgreen.svg)) (CONTRIBUTING.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE   许可证)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)[![Python 3.10](https://img.shields.io/badge/python-3.10 -blue.svg)]（https://www.python.org/）
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)[!(PRs欢迎)(https://img.shields.io/badge/PRs-welcome-brightgreen.svg)) (CONTRIBUTING.md)
 
 **Dual-Core AI** 是一个面向边缘-云端协同推理的轻量级AI推理框架，通过「边缘预处理→云端深度生成→边缘事实校验」三段式级联架构，实现**算力消耗降低40%–60%、推理延迟降低30%–70%、幻觉率降至≤5%** 的技术效果。
 
